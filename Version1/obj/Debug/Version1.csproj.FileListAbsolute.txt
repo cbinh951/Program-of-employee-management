@@ -1,0 +1,12 @@
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\bin\Debug\Version1.exe.config
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\bin\Debug\Version1.exe
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\bin\Debug\Version1.pdb
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.csprojResolveAssemblyReference.cache
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.Properties.Resources.resources
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.csproj.GenerateResource.Cache
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.exe
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.pdb
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.FormChinh.resources
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.FormSua.resources
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.FormTimKiem.resources
+E:\OOP\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan mem quan ly cong ty\PhanMemQuanLyCongTy\Version1\obj\Debug\Version1.FormSapXep.resources
